@@ -29,9 +29,3 @@ A responsive personal portfolio website developed to showcase my projects, techn
 - Experience
 - Education
 - Contact
-
-## 💻 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-portfolio-repo.git
